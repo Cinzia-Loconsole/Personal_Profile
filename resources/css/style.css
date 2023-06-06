@@ -1,0 +1,95 @@
+body{
+  background-color: rgba(240, 240, 236, 0.672);
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.logonav{
+    width: 50px;
+}
+
+#nav1{
+    background-color: rgba(238, 238, 216, 0.937);
+  }
+
+
+.profilepic{
+    /* width: 250px; */
+    width: 49%;
+    border-radius: 50%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contprofile{
+  background: linear-gradient(to right, rgba(227, 194, 201, 0.999), #f3d0d0);
+    /* background-color:rgba(255, 192, 203, 0.672); */
+    height: auto;
+}
+
+/* SWIPER */
+
+ /* FINE SWIPER- */
+
+.search{
+  width: 24px;
+}
+
+/* .icon{
+  width: 200px;
+  height: 200px;
+} */
+
+
+/* STACK */
+.icon{
+  margin-top: 30px;
+}
+
+.iconfigma{
+  width: 50%;
+}
+
+.iconmailtrap{
+ width: 80%;
+}
+
+.iconlive{
+  width: 100%;
+}
+
+.iconphp{
+  color: aqua;
+}
+
+.stack{
+  margin-top: 40px;
+}
+/* .eloquent{
+  border-radius: 50%;
+  width:100px;
+} */
+
+/* FOOTER */
+.bg-footer{
+  border-top: 2px solid rgb(28, 28, 28);
+  background-color: rgba(238, 238, 216, 0.937);
+}
+
+.socialicon{
+  width: 40px;
+}
+
+.about{
+  width: 30px;
+}
+
+.bg-dati{
+  border-top: 1px solid rgb(28, 28, 28);
+  background-color: rgba(240, 240, 236, 0.672);
+}
+
+.text-dati{
+  font-size: small;
+}
+
